@@ -1,0 +1,29 @@
+.Skills {
+    background: linear-gradient(90deg, rgba(255,135,135) 33%, rgba(255, 90, 81) 100%); 
+    padding: 5%;
+}
+.skillsTitle {
+    text-align: center;
+   
+}
+
+.Skills .List {
+    color: rgba(128, 128, 128, 0.507);
+    list-style-type: none;
+    padding: 0;
+}
+
+.midSection {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: 1fr;
+    gap: 16px;
+}
+
+
+li {
+    color: grey;
+    font-size: 16px;
+    list-style: none;
+    
+}

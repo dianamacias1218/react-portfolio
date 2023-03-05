@@ -1,0 +1,37 @@
+.Home {
+    background: rgb(255, 135, 135);
+    background: linear-gradient(90deg, rgb(246, 135, 135) 33%, rgb(255, 90, 81) 100%);
+    display: flex;
+    height: 630px;
+    padding-top:80px; 
+}
+
+.Home .Container  {
+    position: absolute;
+    top: 15%;
+    left: 2%;
+    color: rgb(212, 109, 109);
+    
+}
+
+.Home .Container .Hello {
+  font-size: 63px;  
+}
+
+
+.Home .Container h1 {
+    margin:0;
+} 
+
+
+
+
+
+
+.Home .Code {
+    height:24%;
+    position: absolute;
+    top: 15%;
+    left: 75%;
+}
+
